@@ -1,4 +1,4 @@
-
+cmake_minimum_required(VERSION 3.19)
 project(
  baz 
   VERSION 0.1.1
