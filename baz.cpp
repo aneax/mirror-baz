@@ -1,3 +1,3 @@
 #include "baz.hpp"
 
-auto call_baz() -> std::string { return "baz"; }
+auto call_baz() -> std::string { return "bazbaz"; }
